@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.uffizi.it/en/artworks/judith-beheading-holofernes#gallery" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg/1200px-Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg" alt="Artemisia Gentileschi - Judith Beheading Holofernes" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+<img src="./Judith Beheading Holofernes.avif" alt="Artemisia Gentileschi - Judith Beheading Holofernes" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
 </a>
 <br>
 <em><small>Image source: <a href="https://www.uffizi.it/en/artworks/judith-beheading-holofernes#gallery">Uffizi Galleries</a></small></em>
