@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/judith-banner.jpg" alt="Artemisia Gentileschi - Judith Beheading Holofernes" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
+<img src="https://www.uffizi.it/en/artworks/judith-beheading-holofernes#gallery" alt="Artemisia Gentileschi - Judith Beheading Holofernes" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
 
 # 👁️ The Gentileschi Debate Through Machine Eyes
 **A Dual-Model Machine Learning Framework for Resolving Baroque Art's Most Intractable Attribution Problem.**
