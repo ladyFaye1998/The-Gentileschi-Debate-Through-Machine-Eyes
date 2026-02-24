@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://www.uffizi.it/en/artworks/judith-beheading-holofernes#gallery" alt="Artemisia Gentileschi - Judith Beheading Holofernes" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
+<a href="https://www.uffizi.it/en/artworks/judith-beheading-holofernes#gallery" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg/1200px-Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg" alt="Artemisia Gentileschi - Judith Beheading Holofernes" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+</a>
+<br>
+<em><small>Image source: <a href="https://www.uffizi.it/en/artworks/judith-beheading-holofernes#gallery">Uffizi Galleries</a></small></em>
+
+<br><br>
 
 # 👁️ The Gentileschi Debate Through Machine Eyes
 **A Dual-Model Machine Learning Framework for Resolving Baroque Art's Most Intractable Attribution Problem.**
@@ -17,12 +23,12 @@
 ## 📖 The Research Problem
 The attribution of paintings between Orazio Gentileschi (1563–1639) and his daughter Artemisia (1593–after 1654) represents a notoriously complex diagnostic knot in Baroque connoisseurship. They shared a surname, a Roman workshop, training methods, and a Caravaggesque visual vocabulary. Their documented collaboration—particularly during their London overlap (1638–1640)—produced works of hybrid authorship that frequently resist binary classification.
 
-This project deploys convolutional neural networks to explore a specific question: **Can computational analysis isolate the individual technical signatures of a father versus a daughter, and what can we learn when those algorithms confront historically disputed canvases?**
+In this research, I deployed convolutional neural networks to explore a specific question: **Can computational analysis isolate the individual technical signatures of a father versus a daughter, and what can we learn when those algorithms confront historically disputed canvases?**
 
 ---
 
 ## 🔬 Computational Methodology
-This repository translates the qualitative observations of traditional connoisseurship (the "Morellian" method) into a constrained, quantifiable machine-learning pipeline. The goal is to augment human expertise, not replace it.
+This repository translates the qualitative observations of traditional connoisseurship (the "Morellian" method) into a constrained, quantifiable machine-learning pipeline. The goal is to augment human expertise with data-driven insights, not replace it.
 
 ### The Architecture & Pipeline
 * **Dual-Model Framework:**
