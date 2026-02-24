@@ -14,7 +14,7 @@
 *Research & Codebase for the M.A. in Art History and Visual Culture.*
 *The Faculty of Humanities and Social Sciences, Ben-Gurion University of the Negev.*
 
-**[Explore the Interactive Findings Dashboard](https://ladyfaye1998.github.io/The-Gentileschi-Debate-Through-Machine-Eyes/index.html)**
+**[Explore the Findings](https://ladyfaye1998.github.io/The-Gentileschi-Debate-Through-Machine-Eyes/index.html)**
 
 </div>
 
