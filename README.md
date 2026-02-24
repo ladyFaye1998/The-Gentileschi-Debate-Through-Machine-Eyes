@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.uffizi.it/en/artworks/judith-beheading-holofernes#gallery" target="_blank">
-<img src="./Judith Beheading Holofernes.avif" alt="Artemisia Gentileschi - Judith Beheading Holofernes" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
+<img src="./judith-banner.jpg" alt="Artemisia Gentileschi - Judith Beheading Holofernes" width="100%" style="border-radius: 8px; margin-bottom: 10px;" />
 </a>
 <br>
 <em><small>Image source: <a href="https://www.uffizi.it/en/artworks/judith-beheading-holofernes#gallery">Uffizi Galleries</a></small></em>
@@ -11,10 +11,10 @@
 # 👁️ The Gentileschi Debate Through Machine Eyes
 **A Dual-Model Machine Learning Framework for Resolving Baroque Art's Most Intractable Attribution Problem.**
 
-*Research & Codebase for the M.A. in Art History and Visual Culture.*
+*Research & Codebase by [Danielle Lesin](https://www.bgu.ac.il/en/people/lesindan/) for the M.A. in Art History and Visual Culture.*
 *The Faculty of Humanities and Social Sciences, Ben-Gurion University of the Negev.*
 
-**[Explore the Findings](https://ladyfaye1998.github.io/The-Gentileschi-Debate-Through-Machine-Eyes/index.html)**
+**[Explore Findings Here!](https://ladyfaye1998.github.io/The-Gentileschi-Debate-Through-Machine-Eyes/index.html)**
 
 </div>
 
@@ -64,17 +64,11 @@ A crucial part of this research was documenting where the machine learning faile
 ---
 
 ## 🛠️ Repository Structure
-* `/notebooks/`: Jupyter notebooks detailing the data harvesting, CLAHE preprocessing pipeline, and EfficientNet training loops.
-* `/datasets/`: Metadata matrices for the master corpus (excluding the physical images to comply with museum copyright restrictions).
-* `/results/`: Visualizations of model predictions, probability distributions, and confidence/entropy scores for the disputed corpus.
+* `/Artemisia/`, `/Orazio/`, `/Gender attribution/`: Contains the datasets (secure, questioned, workshop), CSV and JSON databases, HTML galleries, and Wikidata SPARQL queries. All images are fully sourced and cited within the companion site.
+* `/trained_models/`: The compiled `.pth` weight files for the EfficientNet models.
+* `/attribution_analysis_results/`: Saliency maps, confidence distributions, and evaluation metrics for the disputed corpus.
+* `gentileschi_ml_attribution.py`: The core machine learning pipeline and evaluation script.
 
 ---
-
-## 🎓 About Me
-I am an Application Security Strategist, AI Researcher, and Art Historian. I hold an M.A. in Art History and Visual Culture from The Faculty of Humanities and Social Sciences at Ben-Gurion University of the Negev, as well as an M.A. in Celtic Studies from the University of Wales Trinity Saint David. 
-
-My work bridges the gap between secure cloud architectures and classical humanities. In this project, my focus was on leveraging machine learning to quantify uncertainty and generate testable hypotheses in historical datasets, providing a new supplementary tool for traditional art historians.
-
----
-### 📝 Note on Citations
-*As this research is derived from my unpublished MA thesis, please reference this repository and the companion interactive dashboard for methodologies or dataset findings.*
+### 📝 Citation
+*This research was completed for my M.A. thesis and is currently under peer review for academic journal publication. In the meantime, please reference this repository and the companion site for methodologies or dataset findings.*
